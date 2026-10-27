@@ -1,0 +1,4 @@
+Algorithm,Output,Execution Time (seconds),Peak Memory (KB)
+Fractional Knapsack,250.0,0.00011830000016743725,0.234375
+Activity Selection,"[(1, 2), (3, 4), (5, 7), (8, 9)]",0.0003290000001925364,0.2265625
+Huffman Compression,107,0.0008162999999967724,9.697265625

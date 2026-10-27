@@ -1,0 +1,4 @@
+Algorithm,Best Time,Average Time,Worst Time,Auxiliary Space
+Fractional Knapsack,O(n log n),O(n log n),O(n log n),O(n)
+Activity Selection,O(n log n),O(n log n),O(n log n),O(n)
+Huffman Compression,O(n + k log k),O(n + k log k),O(n + k log k),O(k)
